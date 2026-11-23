@@ -1,0 +1,6 @@
+{
+  "name": "Toros Forge: The Master's Anvil",
+  "description": "Kızılgeçit Kalesi demirci atölyesinde çeliği döv, su ver ve Toros geçitlerini kuşatmaya karşı savun. Yapımcı ve Tasarımcı: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
